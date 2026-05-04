@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@dilumrandira">
     <img src="https://img.shields.io/badge/YouTube-Dilum%20Randira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dilum-randira&label=Profile%20Views&color=14b8a6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dilum-randira&label=Profile%20Views&color=14b8a6&style=for-the-badge&base=80" alt="Profile Views" />
 </p>
 
 ---
@@ -112,7 +112,11 @@ My main focus areas are **Full Stack Development**, **Artificial Intelligence**,
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/snake.svg" alt="Snake Animation" />
+  </picture>
 </p>
 
 ---
