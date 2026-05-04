@@ -14,7 +14,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=dilum-randira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## My GitHub Snake 🐍
-
 ![Snake Animation](https://githubusercontent.com)
 
 ### ✍️ Random Dev Quote
