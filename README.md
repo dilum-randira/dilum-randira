@@ -15,7 +15,7 @@
 
 ## My GitHub Snake 🐍
 
-![Snake Animation](https://githubusercontent.com)
+![Snake Animation](https://github.io)
 
 
 ### ✍️ Random Dev Quote
