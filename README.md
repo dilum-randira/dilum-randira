@@ -14,7 +14,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=dilum-randira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## My GitHub Snake 🐍
-![Snake Animation]([https://github.com](https://raw.githubusercontent.com/dilum-randira/dilum-randira/68e9be7b2c08149a67997408f065bc25f12fc07d/github-contribution-grid-snake-dark.svg))
+
+![Snake Animation](https://githubusercontent.com)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
