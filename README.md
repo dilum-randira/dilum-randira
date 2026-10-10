@@ -1,157 +1,127 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,45:1e293b,100:0f766e&text=Dilum%20Randira&fontColor=ffffff&fontSize=54&animation=fadeIn&stroke=14b8a6&strokeWidth=1&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20IT%20Undergraduate&descSize=18&descAlignY=66" alt="Header" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:134e4a,100:0f766e&text=Dilum%20Randira&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEERING&descColor=ccfbf1&descSize=18&descAlignY=61&animation=fadeIn" alt="Dilum Randira — Full Stack Developer and AI Engineering" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=900&lines=Building+AI-powered+web+applications;MERN+Stack+Developer;Computer+Vision+%26+Machine+Learning+Enthusiast;Future+Full+Stack+AI+Developer;Turning+ideas+into+real-world+software" alt="Typing Animation" />
+</p>
 
-### Building useful software. Exploring intelligent systems. Solving real problems.
-
-**Full Stack Developer** · **AI/ML Explorer** · **Former Software Engineering Team Lead**  
-BSc (Hons) Information Technology Undergraduate @ **SLIIT**, Sri Lanka 🇱🇰
-
-<a href="https://www.linkedin.com/in/dilumrandira/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/dilum-randira?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<a href="https://www.youtube.com/@dilumrandira"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=dilum-randira&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views"/>
-
-</div>
-
----
-
-## Hey, I'm Dilum 👋
-
-I'm a developer who enjoys taking ideas **from a problem statement to working software**. My work spans modern web applications, backend systems, AI/ML experimentation, and developer tooling.
-
-During my six-month software engineering internship, I gained experience in **full-stack development and team leadership**—including task coordination, code reviews, QA, and project handovers. Today, I'm combining that practical engineering background with deeper work in **machine learning, intelligent applications, and cloud systems**.
-
-> **My focus:** build reliable, user-centered products that create measurable value—not just impressive demos.
-
-- 🔭 **Working on:** full-stack projects, AI integrations, and applied ML research
-- 🧪 **Researching:** microclimate forecasting and crop-yield prediction for smart agriculture
-- 🧭 **Interested in:** Full Stack AI Engineering, agentic workflows, and practical SaaS products
-- 🤝 **Open to:** collaboration on meaningful software and AI projects
-
-## What I build
-
-| Area | What interests me |
-| :--- | :--- |
-| **Full Stack Engineering** | Responsive web apps, APIs, authentication, dashboards, and business systems |
-| **AI & Machine Learning** | Forecasting, computer vision, predictive models, and AI-powered features |
-| **Cloud & Delivery** | AWS infrastructure, deployment workflows, and application reliability |
-| **Product Thinking** | Turning real customer problems into maintainable, useful solutions |
-
-## Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 [Smart Agriculture Research](https://github.com/dilum-randira/smart-agriculture-IT-437)
-
-**Explainable IoT Microclimate System**  
-Research into growth-stage-aware microclimate forecasts and Nai Miris yield prediction for Sri Lankan open-field farming.
-
-`Time Series` `BiLSTM` `XGBoost` `IoT`
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [SkyCast Live](https://github.com/dilum-randira/SkyCast-Live)
-
-A weather-related software project in my public portfolio. Explore the repository for the current implementation and documentation.
-
-`Web Development` `APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Neural Network Explorer](https://github.com/dilum-randira/Neural_Network_Explorer)
-
-A machine learning-oriented project exploring neural network concepts and experimentation.
-
-`Machine Learning` `Neural Networks`
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 [Pulse](https://github.com/dilum-randira/Pulse)
-
-A public software project in my development portfolio. See the repository for its current scope, code, and progress.
-
-`Software Engineering` `Development`
-
-</td>
-</tr>
-</table>
-
-<sub>Some internship and client-style work lives in private repositories; public project links above are available to explore.</sub>
-
-## Tech I work with
-
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=ts,js,python,java,kotlin,cpp&theme=dark)
-
-**Frontend & application development**
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,androidstudio&theme=dark)
-
-**Backend & data**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres&theme=dark)
-
-**AI / ML & development tools**
-
-![Tools](https://skillicons.dev/icons?i=tensorflow,opencv,git,github,docker,aws,figma,vscode&theme=dark)
-
-`Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `REST APIs` · `GitHub Actions`
-
-<sub>Technologies represent my hands-on work and areas of learning—not claims of equal proficiency.</sub>
-
-## Beyond the code
-
-**Engineering experience** — Former Full Stack Software Engineering Intern & Team Lead, contributing to development, peer support, code review, QA coordination, and project delivery.
-
-**Applied research** — Exploring how IoT measurements and machine learning can support forecasting and agricultural decision-making. Research is ongoing; model performance is not presented as validated production results.
-
-**Long-term direction** — Develop useful AI-enabled software products and sustainable solutions for real businesses.
-
-## GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dilum-randira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub account statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=dilum-randira&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilum-randira&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most represented public repository languages"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dilum-randira&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
-
-</div>
-
-<sub>GitHub cards are third-party visualizations and may be unavailable temporarily. Language statistics reflect repositories, not expertise.</sub>
-
-## Contribution trail 🐍
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
-</picture>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/dilumrandira">
+    <img src="https://img.shields.io/badge/LinkedIn-Dilum%20Randira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@dilumrandira">
+    <img src="https://img.shields.io/badge/YouTube-Dilum%20Randira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dilum-randira&label=Profile%20Views&color=14b8a6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-### Have an interesting problem to solve?
+<img align="right" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Animation" />
 
-**Let's connect, collaborate, and build something genuinely useful.**
+I am an IT undergraduate passionate about building practical, modern, and AI-powered software solutions.  
+My main focus areas are **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
 
-[**LinkedIn**](https://www.linkedin.com/in/dilumrandira/) · [**GitHub Projects**](https://github.com/dilum-randira?tab=repositories) · [**YouTube**](https://www.youtube.com/@dilumrandira)
+- 🎓 IT Undergraduate at **SLIIT**
+- 💻 Passionate about **MERN Stack Development**
+- 🤖 Interested in **AI/ML, Data Science, and Computer Vision**
+- 🌱 Currently improving my skills in **Full Stack AI Development**
+- 🚀 Goal: Become a future-ready **Full Stack AI Developer**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0f172a,50:134e4a,100:0f766e" alt="Decorative footer"/>
+<br clear="right"/>
 
-</div>
+---
+
+## 🧠 Focus Areas
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Development;Artificial+Intelligence+%26+Machine+Learning;Data+Science;Computer+Vision;Mobile+App+Development;UI%2FUX+Design" alt="Focus Areas" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,c,cpp,cs,php,r" alt="Languages" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" alt="Frontend Skills" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring" alt="Backend Skills" />
+</p>
+
+### AI / ML / Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda" alt="AI ML Skills" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+### Tools & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilum-randira&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=dilum-randira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilum-randira&theme=tokyonight" alt="Languages by Repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dilum-randira&theme=tokyonight" alt="Languages by Commits" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilum-randira&theme=tokyonight" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dilum-randira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/dilum-randira/dilum-randira/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,45:1e293b,100:0f766e&section=footer" alt="Footer" />
+</p>
